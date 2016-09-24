@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "stroke-of-genius",
-  "type": "comics"
+  "name": "Stroke of Genius",
+  "type": "comics",
+  "book_id": 348
 }
